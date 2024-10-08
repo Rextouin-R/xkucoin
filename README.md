@@ -1,4 +1,4 @@
-## Install
+## Install via termux 
 
 ```
 pkg update
