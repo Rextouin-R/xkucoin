@@ -1,3 +1,14 @@
+# Register HERE
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](        )
+
+# Join Telegram
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](     )
+
+
+### Buy Me Coffee Faucetpay
+
+#Email : Officialomgode@outlook.com
+
 ## Install via termux 
 
 ```
